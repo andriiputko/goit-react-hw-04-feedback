@@ -1,0 +1,25 @@
+.header {
+    font-size: 45px;
+    font-weight: 700;
+    color: rgb(65, 65, 231);
+}
+
+.button {
+    width: 120px;
+    height: 55px;
+    margin-right: 25px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(48, 48, 156);
+    color: rgb(226, 235, 243);
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button:last-of-type {
+    margin-right: 0;
+}

@@ -1,0 +1,14 @@
+.list {
+    list-style-type: none;
+    padding: 45px 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.li {
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(102, 57, 240);
+}
